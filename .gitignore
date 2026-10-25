@@ -4,6 +4,7 @@ __pycache__/
 .pytest_cache/
 .streamlit/
 chroma_data/
+.eval_chroma/
 *.py[cod]
 *.egg-info/
 .coverage
