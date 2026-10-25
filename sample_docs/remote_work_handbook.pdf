@@ -1,0 +1,102 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 428 >>
+stream
+BT
+/F1 12 Tf
+72 740 Td
+16 TL
+(Northstar Studio Remote Work Handbook) Tj
+T*
+(Version 1.2, revised March 2025.) Tj
+T*
+(This handbook explains how the small product team works across time zones.) Tj
+T*
+(The core collaboration window is 1:00 PM to 4:00 PM UTC on weekdays.) Tj
+T*
+(Outside that window, teammates should leave clear written handoffs.) Tj
+T*
+(Use the project tracker for decisions that affect delivery dates.) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 451 >>
+stream
+BT
+/F1 12 Tf
+72 740 Td
+16 TL
+(Meeting and communication guidelines) Tj
+T*
+(Weekly planning happens every Monday at 2:00 PM UTC and lasts 45 minutes.) Tj
+T*
+(A meeting needs an agenda before it is scheduled.) Tj
+T*
+(Use chat for quick questions and the project tracker for durable decisions.) Tj
+T*
+(The expected response time for non-urgent chat is one business day.) Tj
+T*
+(Urgent production issues should be marked with the incident label.) Tj
+T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 469 >>
+stream
+BT
+/F1 12 Tf
+72 740 Td
+16 TL
+(Time off and equipment) Tj
+T*
+(Request planned time off at least ten calendar days before the first day away.) Tj
+T*
+(For unexpected sick leave, notify your manager as soon as practical.) Tj
+T*
+(The company reimburses up to 600 US dollars for a home-office setup after approval.) Tj
+T*
+(Receipts must be submitted within 30 days of purchase.) Tj
+T*
+(Company laptops are replaced on a four-year cycle unless repair is impractical.) Tj
+T*
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000253 00000 n 
+0000000732 00000 n 
+0000000858 00000 n 
+0000001360 00000 n 
+0000001486 00000 n 
+0000002006 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+2076
+%%EOF
