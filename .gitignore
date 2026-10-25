@@ -7,4 +7,5 @@ chroma_data/
 *.py[cod]
 *.egg-info/
 .coverage
+work/
 
