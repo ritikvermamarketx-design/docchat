@@ -1,0 +1,17 @@
+[
+  {"question": "What are the core collaboration hours?", "file": "remote_work_handbook.pdf", "page": 1, "keywords": ["1:00", "4:00", "utc"]},
+  {"question": "Where should delivery-date decisions be recorded?", "file": "remote_work_handbook.pdf", "page": 1, "keywords": ["project tracker"]},
+  {"question": "When is weekly planning held?", "file": "remote_work_handbook.pdf", "page": 2, "keywords": ["monday", "2:00", "45"]},
+  {"question": "What must exist before scheduling a meeting?", "file": "remote_work_handbook.pdf", "page": 2, "keywords": ["agenda"]},
+  {"question": "How quickly should non-urgent chat receive a response?", "file": "remote_work_handbook.pdf", "page": 2, "keywords": ["one business day"]},
+  {"question": "How should an urgent production issue be marked?", "file": "remote_work_handbook.pdf", "page": 2, "keywords": ["incident label"]},
+  {"question": "How much home-office equipment can be reimbursed?", "file": "remote_work_handbook.pdf", "page": 3, "keywords": ["600", "approval"]},
+  {"question": "When should time off be requested?", "file": "remote_work_handbook.pdf", "page": 3, "keywords": ["ten calendar days"]},
+  {"question": "How long do employees have to submit equipment receipts?", "file": "remote_work_handbook.pdf", "page": 3, "keywords": ["30 days"]},
+  {"question": "What is the laptop replacement cycle?", "file": "remote_work_handbook.pdf", "page": 3, "keywords": ["four-year"]},
+  {"question": "Where is the community garden located?", "file": "garden_notes.pdf", "page": 1, "keywords": ["east corner", "riverside park"]},
+  {"question": "When are garden volunteer sessions?", "file": "garden_notes.pdf", "page": 1, "keywords": ["first saturday", "9:00"]},
+  {"question": "How much rainwater can the garden store?", "file": "garden_notes.pdf", "page": 1, "keywords": ["two", "500-litre"]},
+  {"question": "When are tomatoes planted?", "file": "garden_notes.pdf", "page": 2, "keywords": ["last frost", "late april"]},
+  {"question": "Where does excess garden produce go?", "file": "garden_notes.pdf", "page": 2, "keywords": ["riverside food pantry", "wednesday"]}
+]
