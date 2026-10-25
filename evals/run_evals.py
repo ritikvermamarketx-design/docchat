@@ -4,14 +4,18 @@ from __future__ import annotations
 
 import json
 import shutil
+import sys
 from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 from docchat.embeddings import embed_texts
 from docchat.ingest import chunk_pages, file_fingerprint, read_pdf
 from docchat.retrieve import retrieve
 from docchat.store import DocumentStore
 
-ROOT = Path(__file__).resolve().parents[1]
 EVAL_STORE = ROOT / ".eval_chroma"
 
 
