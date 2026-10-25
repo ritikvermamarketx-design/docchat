@@ -57,9 +57,7 @@ def main() -> None:
         "| --- | --- | --- |",
         *rows,
         "",
-        "## Iteration notes",
-        "",
-        "The initial 500-character chunk size split short policy statements too often. Increasing it to 700 characters with 120-character overlap kept a page's related sentence together; this final run uses those settings.",
+        "This is the baseline for the current 700-character chunks with 120-character overlap. Future changes should be compared against these two figures.",
     ]
     (ROOT / "evals" / "results.md").write_text("\n".join(report) + "\n")
     print(f"retrieval hit rate: {hits}/{total} ({hits / total:.0%})")

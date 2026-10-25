@@ -60,7 +60,9 @@ def chunk_pages(pages: list[PageText], chunk_size: int = 700, overlap: int = 120
                 chunk_index += 1
             if end >= len(page.text):
                 break
-            start = max(end - overlap, start + 1)
+            overlap_start = max(end - overlap, start + 1)
+            word_boundary = page.text.rfind(" ", start, overlap_start)
+            start = word_boundary + 1 if word_boundary > start else overlap_start
     return chunks
 
 
