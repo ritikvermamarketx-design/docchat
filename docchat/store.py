@@ -5,6 +5,7 @@ from __future__ import annotations
 from pathlib import Path
 
 import chromadb
+from chromadb.config import Settings
 
 from docchat.ingest import TextChunk
 
@@ -13,7 +14,9 @@ class DocumentStore:
     """Persist and query document chunks using precomputed embeddings."""
 
     def __init__(self, directory: str | Path = "chroma_data") -> None:
-        self.client = chromadb.PersistentClient(path=str(directory))
+        self.client = chromadb.PersistentClient(
+            path=str(directory), settings=Settings(anonymized_telemetry=False)
+        )
         self.collection = self.client.get_or_create_collection(
             name="docchat_chunks", metadata={"hnsw:space": "cosine"}
         )
